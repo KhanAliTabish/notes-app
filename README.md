@@ -1,4 +1,4 @@
-# notes-app
+# notes-app using Synchronous FileSystem and CommandLine Args
 This is a basic notes-app built using core NodeJS
 It uses commandline to take in the arguments to add,remove,get and list notes from a Json file
 
